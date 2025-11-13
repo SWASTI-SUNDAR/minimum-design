@@ -22,8 +22,9 @@ const OurEthos = () => {
               <p className="text-xs lg:text-sm leading-relaxed text-gray-700">
                 At Minimum Design Studio, our philosophy is built around
                 relevance, value, and relationships. We believe that great
-                design is not just about aesthetics — it's about understanding
-                context, creating meaning, and fostering connections.
+                design is not just about aesthetics — it&apos;s about
+                understanding context, creating meaning, and fostering
+                connections.
               </p>
 
               {/* 1. Relevant Innovation */}
@@ -49,11 +50,11 @@ const OurEthos = () => {
                   2. Meaningful Value-adds
                 </h3>
                 <p className="text-xs lg:text-sm leading-relaxed text-gray-700">
-                  Our goal is not to add more; it's to add meaning. We focus on
-                  creating experiences that deliver real value. Everything we
-                  design will contribute to profitability, brand recognition,
-                  customer loyalty, operational efficiency, and delight — where
-                  design directly supports business outcomes.
+                  Our goal is not to add more; it&apos;s to add meaning. We
+                  focus on creating experiences that deliver real value.
+                  Everything we design will contribute to profitability, brand
+                  recognition, customer loyalty, operational efficiency, and
+                  delight — where design directly supports business outcomes.
                 </p>
               </div>
 

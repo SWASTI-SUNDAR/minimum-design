@@ -86,9 +86,9 @@ const WhatOurShopSells = () => {
               <div className="pt-2">
                 <p className="text-xs font-semibold text-black">Pay-offs:</p>
                 <p className="text-xs text-gray-700">
-                  Digital experiences that don't just function well but feel
-                  right — intuitive, human, and quietly powerful in building
-                  trust, loyalty, and growth.
+                  Digital experiences that don&apos;t just function well but
+                  feel right — intuitive, human, and quietly powerful in
+                  building trust, loyalty, and growth.
                 </p>
               </div>
             </div>
@@ -111,10 +111,10 @@ const WhatOurShopSells = () => {
                 touchpoint. Our execution connects the process cohesive to real
                 policy integration, user experience, user integration and the
                 that understands, as part of an improvement-driven approach that
-                we perform, in harmony. Whether it's web, mobile, or platform
-                app solutions, our teams focus on clear visual hierarchy,
-                consistent interactions, cohesive design language, and system
-                continuance.
+                we perform, in harmony. Whether it&apos;s web, mobile, or
+                platform app solutions, our teams focus on clear visual
+                hierarchy, consistent interactions, cohesive design language,
+                and system continuance.
               </p>
               <p className="text-sm leading-relaxed text-gray-700">
                 Each execution is guided by meticulous QAs, comprehensive
@@ -229,8 +229,8 @@ const WhatOurShopSells = () => {
                 Our approach extends beyond design thinking to long- term brand
                 governance. We help organisations build the confidence to
                 evolve, launch new services, enter new markets — platforms,
-                audits, and systems that protect the brand's integrity, even as
-                they embrace new partnerships. This ensures that every
+                audits, and systems that protect the brand&apos;s integrity,
+                even as they embrace new partnerships. This ensures that every
                 interaction, from initial document to a billboard carries the
                 same voice and simplicity.
               </p>

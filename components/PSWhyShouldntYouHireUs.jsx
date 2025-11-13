@@ -9,7 +9,7 @@ const PSWhyShouldntYouHireUs = () => {
               PS.
             </h2>
             <h3 className="text-5xl lg:text-6xl font-light leading-tight text-black">
-              Why <s className="decoration-2">shouldn't you</s>
+              Why <s className="decoration-2">shouldn&apos;t you</s>
               <br />
               <span className="font-bold text-6xl lg:text-7xl text-black">
                 Hire Us?
@@ -55,7 +55,7 @@ const PSWhyShouldntYouHireUs = () => {
             {/* Reason 3 */}
             <div className="space-y-3">
               <h4 className="text-sm font-semibold text-black">
-                3. We're allergic to deliver.
+                3. We&apos;re allergic to deliver.
               </h4>
               <p className="text-xs leading-relaxed text-gray-700">
                 Working from a long experience, we know that.
@@ -71,20 +71,21 @@ const PSWhyShouldntYouHireUs = () => {
             {/* Reason 4 */}
             <div className="space-y-3">
               <h4 className="text-sm font-semibold text-black">
-                4. We don't come cheap.
+                4. We don&apos;t come cheap.
               </h4>
               <p className="text-xs leading-relaxed text-gray-700">
                 Where you invest, the intent define — and ourselves out of the
                 market.
               </p>
               <p className="text-xs leading-relaxed text-gray-700">
-                Because experience comes at a price — and rightfully so. That's
-                exactly a unique service offering that right you don't work with
-                everyone, you just want with like minds wherever possible, and
-                more personal relationships that give you career benefits for
-                scale. — We see the relationships as a foundation that continues
-                to build and appreciate and develop. Rather than talking small
-                things within and closing out better work.
+                Because experience comes at a price — and rightfully so.
+                That&apos;s exactly a unique service offering that right you
+                don&apos;t work with everyone, you just want with like minds
+                wherever possible, and more personal relationships that give you
+                career benefits for scale. — We see the relationships as a
+                foundation that continues to build and appreciate and develop.
+                Rather than talking small things within and closing out better
+                work.
               </p>
             </div>
 
@@ -97,12 +98,12 @@ const PSWhyShouldntYouHireUs = () => {
                 Every brief becomes personal to everyone one who has been.
               </p>
               <p className="text-xs leading-relaxed text-gray-700">
-                Once we're building, your problem becomes our obsession. We take
-                full things — not with the business, but with your success.
-                Success doesn't matter. We are interested in you, accountable
-                for the our experiences. Said: We can I'll respect to visit with
-                affection will never be an effort. So if that doesn't convince,
-                serious standards for you.
+                Once we&apos;re building, your problem becomes our obsession. We
+                take full things — not with the business, but with your success.
+                Success doesn&apos;t matter. We are interested in you,
+                accountable for the our experiences. Said: We can I&apos;ll
+                respect to visit with affection will never be an effort. So if
+                that doesn&apos;t convince, serious standards for you.
               </p>
             </div>
 
@@ -118,8 +119,8 @@ const PSWhyShouldntYouHireUs = () => {
                 ourselves growth.
               </p>
               <p className="text-xs leading-relaxed text-gray-700">
-                If we can see the things, at it can't see right, and even right
-                is the fact that you think — just time. So, thank you for
+                If we can see the things, at it can&apos;t see right, and even
+                right is the fact that you think — just time. So, thank you for
                 considering us, for understanding that we offer an different and
                 healthy engagement. Every relationship and every project has
                 impact. It can and may represent things like culture.
