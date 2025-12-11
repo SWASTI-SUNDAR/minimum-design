@@ -29,8 +29,8 @@ const WhatOurShopSells = () => {
                   className="w-full h-full object-contain"
                 />
               </div>
-              <h3 className="text-lg font-semibold text-black">Consultancy</h3>
-              <p className="text-sm leading-relaxed text-gray-700">
+              <h3 className="text-lg lato-black text-black">Consultancy</h3>
+              <p className="text-sm leading-relaxed lato-light text-gray-700">
                 We ensure a smooth customer experience optimisation and
                 experience strategy. We support the decision-making by
                 understanding context, carrying out auditory, and assessing
@@ -38,7 +38,7 @@ const WhatOurShopSells = () => {
                 spectrum of qualitative research and quantitative data, we are
                 able to set the foundational blocks and then on design it.
               </p>
-              <p className="text-sm leading-relaxed text-gray-700">
+              <p className="text-sm leading-relaxed lato-light text-gray-700">
                 We bring together long-term to global experience, partnering
                 with organizations (NGOs, Charities, etc), private (and
                 Finance). The outcome is a framework that provides a way for
@@ -46,8 +46,8 @@ const WhatOurShopSells = () => {
                 differentiation, relevance, and relevance to their market.
               </p>
               <div className="pt-2">
-                <p className="text-xs font-semibold text-black">Pay-offs:</p>
-                <p className="text-xs text-gray-700">
+                <p className="text-xs lato-black text-black">Pay-offs:</p>
+                <p className="text-xs lato-black text-gray-700">
                   A solid foundation for long-term success – built on insight,
                   proven strategies, actionable recommendations, and measurable
                   impact that reduce risk and accelerate growth.
@@ -66,8 +66,8 @@ const WhatOurShopSells = () => {
                   className="w-full h-full object-contain"
                 />
               </div>
-              <h3 className="text-lg font-semibold text-black">Design</h3>
-              <p className="text-sm leading-relaxed text-gray-700">
+              <h3 className="text-lg lato-black text-black">Design</h3>
+              <p className="text-sm leading-relaxed lato-light text-gray-700">
                 This is where strategy takes shape and begins to breathe. Our
                 design process connects creativity with commercial fact, and
                 trust. Every click, scroll, and pause becomes part of a larger
@@ -76,7 +76,7 @@ const WhatOurShopSells = () => {
                 effortlessly, minimising friction and bringing meaning to every
                 transaction.
               </p>
-              <p className="text-sm leading-relaxed text-gray-700">
+              <p className="text-sm leading-relaxed lato-light text-gray-700">
                 Our craft builds searching, tap, and checkout — blending
                 research with empathy, your core with storytelling. From journey
                 maps and wireframes to prototypes, and all about systemic
@@ -85,7 +85,7 @@ const WhatOurShopSells = () => {
               </p>
               <div className="pt-2">
                 <p className="text-xs font-semibold text-black">Pay-offs:</p>
-                <p className="text-xs text-gray-700">
+                <p className="text-xs text-gray-700 lato-black">
                   Digital experiences that don&apos;t just function well but
                   feel right — intuitive, human, and quietly powerful in
                   building trust, loyalty, and growth.
@@ -104,8 +104,8 @@ const WhatOurShopSells = () => {
                   className="w-full h-full object-contain"
                 />
               </div>
-              <h3 className="text-lg font-semibold text-black">Execution</h3>
-              <p className="text-sm leading-relaxed text-gray-700">
+              <h3 className="text-lg lato-black text-black">Execution</h3>
+              <p className="text-sm leading-relaxed lato-light text-gray-700">
                 We translate strategy and insight into designs that resonate —
                 seamlessly, precisely, and coherent that enhances every
                 touchpoint. Our execution connects the process cohesive to real
@@ -116,14 +116,14 @@ const WhatOurShopSells = () => {
                 hierarchy, consistent interactions, cohesive design language,
                 and system continuance.
               </p>
-              <p className="text-sm leading-relaxed text-gray-700">
+              <p className="text-sm leading-relaxed lato-light text-gray-700">
                 Each execution is guided by meticulous QAs, comprehensive
                 testing workflows and collaboration while maintaining design
                 consistency and operational efficiency.
               </p>
               <div className="pt-2">
                 <p className="text-xs font-semibold text-black">Pay-offs:</p>
-                <p className="text-xs text-gray-700">
+                <p className="text-xs lato-black text-gray-700">
                   Experiences that not only look elegant but perform with
                   precision — driving adoption, engagement, and lasting brand
                   trust.
@@ -142,8 +142,8 @@ const WhatOurShopSells = () => {
                   className="w-full h-full object-contain"
                 />
               </div>
-              <h3 className="text-lg font-semibold text-black">Enablement</h3>
-              <p className="text-sm leading-relaxed text-gray-700">
+              <h3 className="text-lg lato-black text-black">Enablement</h3>
+              <p className="text-sm leading-relaxed lato-light text-gray-700">
                 We believe great design should not end with delivery — it should
                 evolve, adapt, and empower. Through Gues-thos design systems,
                 detailed documentation, and ongoing capability — empowering 4
@@ -151,7 +151,7 @@ const WhatOurShopSells = () => {
                 temporary side-set — becoming part of the organisational
                 foundation.
               </p>
-              <p className="text-sm leading-relaxed text-gray-700">
+              <p className="text-sm leading-relaxed lato-light text-gray-700">
                 Our enablement approach include design systems, governance
                 models, and hands-on frameworks that can and will evolve and
                 flourish and adapt among your business. We work closely with
@@ -161,7 +161,7 @@ const WhatOurShopSells = () => {
               </p>
               <div className="pt-2">
                 <p className="text-xs font-semibold text-black">Pay-offs:</p>
-                <p className="text-xs text-gray-700">
+                <p className="text-xs text-gray-700 lato-black">
                   Organisations that can build experience faster — equipped with
                   the confidence, tools, and culture to create, manage, and
                   evolve exceptional customer experiences.
@@ -180,10 +180,10 @@ const WhatOurShopSells = () => {
                   className="w-full h-full object-contain"
                 />
               </div>
-              <h3 className="text-lg font-semibold text-black">
+              <h3 className="text-lg lato-black text-black">
                 Audit & Governance
               </h3>
-              <p className="text-sm leading-relaxed text-gray-700">
+              <p className="text-sm leading-relaxed lato-light text-gray-700">
                 Excellence is continuous, and standards — even design principles
                 require consistency. Through our Design Audit and Governance
                 practice, we help organisations establish standards, maintain
@@ -197,7 +197,7 @@ const WhatOurShopSells = () => {
               </p>
               <div className="pt-2">
                 <p className="text-xs font-semibold text-black">Pay-offs:</p>
-                <p className="text-xs text-gray-700">
+                <p className="text-xs text-gray-700 lato-black">
                   Excellence in disciplined practice, often gracefully alongside
                   business growth and innovation.
                 </p>
@@ -215,8 +215,8 @@ const WhatOurShopSells = () => {
                   className="w-full h-full object-contain"
                 />
               </div>
-              <h3 className="text-lg font-semibold text-black">Branding</h3>
-              <p className="text-sm leading-relaxed text-gray-700">
+              <h3 className="text-lg lato-black text-black">Branding</h3>
+              <p className="text-sm leading-relaxed lato-light text-gray-700">
                 A strong brand is far more than a logo — it is a living identity
                 that inspires trust, recognition, and belonging. We craft brand
                 systems that express not just what an organisation does, but who
@@ -225,7 +225,7 @@ const WhatOurShopSells = () => {
                 together to build coherent, compelling experience across every
                 touchpoint.
               </p>
-              <p className="text-sm leading-relaxed text-gray-700">
+              <p className="text-sm leading-relaxed lato-light text-gray-700">
                 Our approach extends beyond design thinking to long- term brand
                 governance. We help organisations build the confidence to
                 evolve, launch new services, enter new markets — platforms,
@@ -236,7 +236,7 @@ const WhatOurShopSells = () => {
               </p>
               <div className="pt-2">
                 <p className="text-xs font-semibold text-black">Pay-offs:</p>
-                <p className="text-xs text-gray-700">
+                <p className="text-xs lato-black text-gray-700">
                   A cohesive, credible, and enduring brand presence that builds
                   equity, fosters loyalty, and positions your business for
                   sustainable growth.

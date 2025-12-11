@@ -5,13 +5,13 @@ const WhoAreWe = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12">
           {/* Left Column - Title */}
           <div className="lg:pr-8 lg:pl-8 lg:m-8">
-            <h2 className="text-5xl lg:text-6xl font-light leading-tight text-black">
+            <h5 className="text-5xl lg:text-6xl font-extralight leading-tight text-black">
               Who Are
               <br />
               <span className="font-bold text-6xl lg:text-7xl text-black">
                 We?
               </span>
-            </h2>
+            </h5>
           </div>
 
           {/* Right Column - Content in Two Sub-columns */}
@@ -19,7 +19,7 @@ const WhoAreWe = () => {
             {/* First Sub-column */}
             <div className="space-y-6">
               {/* First Paragraph */}
-              <p className="text-xs lg:text-sm leading-relaxed text-gray-700">
+              <p className="text-xs lg:text-sm leading-relaxed text-gray-700 font-light">
                 Minimum Design Studio, established in 2020 in Calcutta, India,
                 was founded with the vision of addressing the
                 micro-psychological nuances of customer experience often
@@ -30,7 +30,7 @@ const WhoAreWe = () => {
               </p>
 
               {/* Second Paragraph */}
-              <p className="text-xs lg:text-sm leading-relaxed text-gray-700">
+              <p className="text-xs lg:text-sm leading-relaxed text-gray-700 font-light">
                 Since 2012, we have been shaping curated customer experiences
                 with more than twenty years of collective expertise in CX
                 consultancy, business strategy, branding, experience audits, and
@@ -42,7 +42,7 @@ const WhoAreWe = () => {
             {/* Second Sub-column */}
             <div className="space-y-6">
               {/* Third Paragraph */}
-              <p className="text-xs lg:text-sm leading-relaxed text-gray-700">
+              <p className="text-xs lg:text-sm leading-relaxed text-gray-700 font-light">
                 We hold a strong specialisation in Africa, designing solutions
                 tailored to the unique challenges of LEDCs for nearly a decade
                 now. By focusing on scalable and relevant CX as a driver of
@@ -51,7 +51,7 @@ const WhoAreWe = () => {
               </p>
 
               {/* Fourth Paragraph */}
-              <p className="text-xs lg:text-sm leading-relaxed text-gray-700">
+              <p className="text-xs lg:text-sm leading-relaxed text-gray-700 font-light">
                 Through customer-driven engagements, we empower economies of the
                 Global South to compete on the world stage, with relevance and
                 resilience at the core.

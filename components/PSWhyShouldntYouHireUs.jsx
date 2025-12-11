@@ -21,112 +21,113 @@ const PSWhyShouldntYouHireUs = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8 lg:pr-8">
             {/* Reason 1 */}
             <div className="space-y-3">
-              <h4 className="text-sm font-semibold text-black">
-                1. Our ODI for details might buffer you
+              <h4 className="text-sm lato-black text-black">
+                1. Our OCD for details might bother you
               </h4>
-              <p className="text-xs leading-relaxed text-gray-700">
-                We believe that good lies is in the details. This obsessional
-                focus means that when we finish an audit, we will possibly have
-                questions (lots of them). We start every year, every stand, and
-                every colour may look light. It is a bit like reading our
-                language until you drop exhausted. So, expect to work hard — and
-                definitely be ready.
+              <p className="text-sm lato-light leading-relaxed text-gray-700 font-light">
+                Because “almost right” is still wrong. We believe the devil
+                truly lies in the details. The emotional micro-nuances that
+                others overlook are exactly where we focus our craft. We
+                question, refine, and polish until every pixel, every word, and
+                every interaction feels right. It’s highly possible our
+                obsession with precision might test your patience — but trust
+                us, you’ll love the results.
               </p>
             </div>
 
             {/* Reason 2 */}
             <div className="space-y-3">
-              <h4 className="text-sm font-semibold text-black">
-                2. Opinionated is unwanted.
+              <h4 className="text-sm lato-black text-black">
+                2. Unprofessional is unwanted.
               </h4>
-              <p className="text-xs leading-relaxed text-gray-700">
-                We have earned opinions - lot of them.
+              <p className="text-sm lato-light leading-relaxed text-gray-700 font-light">
+                We argue about pixels, not payments.
               </p>
-              <p className="text-xs leading-relaxed text-gray-700">
-                We have a point of view — not one in a closed stance, not a
-                blanket. Common disagreement, but conversation they were about
-                the details that concern us. How do you begin a project with a
-                small project. Our interests are always built up over time
-                experience. No matter how you have used it or found it, some of
-                our decisions and conversations will be different.
+              <p className="text-sm lato-light leading-relaxed text-gray-700 font-light">
+                We love a good debate — as long as it’s about ideas, not
+                invoices. Creative disagreements fuel innovation; they make the
+                work stronger. But when it comes to business, we prefer clarity
+                over chaos. Our contracts are water-tight, our terms
+                transparent. Because tying up loose ends at onset helps build
+                long-term, sustainable relationships.
               </p>
             </div>
 
             {/* Reason 3 */}
             <div className="space-y-3">
-              <h4 className="text-sm font-semibold text-black">
-                3. We&apos;re allergic to deliver.
+              <h4 className="text-sm lato-black text-black">
+                3. We&apos;re allergic to delays.
               </h4>
-              <p className="text-xs leading-relaxed text-gray-700">
-                Working from a long experience, we know that.
+              <p className="text-sm lato-light leading-relaxed text-gray-700 font-light">
+                Running behind-time is unwelcome
               </p>
-              <p className="text-xs leading-relaxed text-gray-700">
-                Working from a big picture, delivering design thinking,
-                creativity or planning is all. We feel it connects to the entire
-                structure — from people, process, and technology to the ear
-                culture, and maybe just a things interest the goals.
+              <p className="text-sm lato-light leading-relaxed text-gray-700 font-light">
+                We treat time like design — with precision and respect. Wasting
+                it is a big no-no, whether it&apos;s about meeting a deadline or
+                joining a call. We hold ourselves to the same standards we
+                expect from our partners — we&apos;ll make up for our delays,
+                and might just charge interest for yours. Fair is fair.
               </p>
             </div>
 
             {/* Reason 4 */}
             <div className="space-y-3">
-              <h4 className="text-sm font-semibold text-black">
+              <h4 className="text-sm lato-black text-black">
                 4. We don&apos;t come cheap.
               </h4>
-              <p className="text-xs leading-relaxed text-gray-700">
-                Where you invest, the intent define — and ourselves out of the
-                market.
+              <p className="text-sm lato-light leading-relaxed text-gray-700 font-light">
+                There&apos;s always a cheaper option — and a better reason to
+                call us.
               </p>
-              <p className="text-xs leading-relaxed text-gray-700">
-                Because experience comes at a price — and rightfully so.
-                That&apos;s exactly a unique service offering that right you
-                don&apos;t work with everyone, you just want with like minds
-                wherever possible, and more personal relationships that give you
-                career benefits for scale. — We see the relationships as a
-                foundation that continues to build and appreciate and develop.
-                Rather than talking small things within and closing out better
-                work.
+              <p className="text-sm lato-light leading-relaxed text-gray-700 font-light">
+                Bespoke experiences come at a price — and rightfully so.
+                There&apos;s always a cheaper version out there, but that&apos;s
+                not us. We don&apos;t cut corners, we craft edges. Every pixel,
+                every process, and every promise comes with intention and
+                precision.We believe in fair value — for the time, talent, and
+                thinking that shape meaningful design. And yes, we have bills to
+                pay too — mostly from buying better coffee and obsessing over
+                better work.
               </p>
             </div>
 
             {/* Reason 5 */}
             <div className="space-y-3">
-              <h4 className="text-sm font-semibold text-black">
+              <h4 className="text-sm lato-black text-black">
                 5. Ownership comes Standard
               </h4>
-              <p className="text-xs leading-relaxed text-gray-700">
-                Every brief becomes personal to everyone one who has been.
+              <p className="text-sm lato-light leading-relaxed text-gray-700 font-light">
+                Once we&apos;re in, it&apos;s ours to fix, polish, and perfect.
               </p>
-              <p className="text-xs leading-relaxed text-gray-700">
-                Once we&apos;re building, your problem becomes our obsession. We
-                take full things — not with the business, but with your success.
-                Success doesn&apos;t matter. We are interested in you,
-                accountable for the our experiences. Said: We can I&apos;ll
-                respect to visit with affection will never be an effort. So if
-                that doesn&apos;t convince, serious standards for you.
+              <p className="text-sm lato-light leading-relaxed text-gray-700 font-light">
+                Once you&apos;ve hired us, your problem becomes our obsession.
+                We don&apos;t just design — we own the outcome. From kickoff to
+                launch (and every chaotic Slack thread in between), we take
+                responsibility like it&apos;s our name on the door. We stay till
+                it works — not just till it&apos;s delivered. Because real
+                design doesn&apos;t stop at handoff; it succeeds when it
+                succeeds for you.
               </p>
             </div>
 
             {/* Reason 6 */}
-            <div className="space-y-3">
-              <h4 className="text-sm font-semibold text-black">
-                6. We choose as, We choose you.
+            <div className="space-y-3 ">
+              <h4 className="text-sm lato-black text-black">
+                6. You choose us. We choose you.
               </h4>
-              <p className="text-xs leading-relaxed text-gray-700">
-                At a particular time, our partnerships to our projects and
-                healthy engagement. Every relationship and every project has
-                impact. It can and may represent things like happiness, and
-                ourselves growth.
+              <p className="text-sm lato-light leading-relaxed text-gray-700 font-light">
+                No ranks. No flattery. Just honest colab that works.
               </p>
-              <p className="text-xs leading-relaxed text-gray-700">
-                If we can see the things, at it can&apos;t see right, and even
-                right is the fact that you think — just time. So, thank you for
-                considering us, for understanding that we offer an different and
-                healthy engagement. Every relationship and every project has
-                impact. It can and may represent things like culture.
+              <p className="text-sm lato-light leading-relaxed text-gray-700 font-light">
+                If we ever feel the timing or fit isn&apos;t right, we&apos;ll
+                wait until it is. The best ideas win here — not titles, not
+                tenure, not egos or finances. We believe on collaboration,
+                curiosity, and healthy disagreements. If we feel something
+                isn&apos;t right for you, you&apos;ll hear it — loud and clear.
+                We&apos;re not in the business of half-hearted ideas.
               </p>
-              <p className="text-xs leading-relaxed text-gray-700 mt-4">
-                Partnerships and both Win.
+              <p className="text-sm lato-light leading-relaxed text-gray-700 font-light mt-4">
+                Partnerships work both ways.
               </p>
             </div>
           </div>

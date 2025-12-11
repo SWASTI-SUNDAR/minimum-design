@@ -9,6 +9,38 @@ import { Menu, X } from "lucide-react";
 const Navbar = () => {
   const pathname = usePathname();
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const [activeSection, setActiveSection] = useState("");
+
+  // Scroll detection for active section
+  useEffect(() => {
+    const handleScroll = () => {
+      const sections = ["who-are-we", "our-ethos", "services", "contact"];
+      const scrollPosition = window.scrollY + 100; // Offset for navbar height
+
+      for (const sectionId of sections) {
+        const section = document.getElementById(sectionId);
+        if (section) {
+          const sectionTop = section.offsetTop;
+          const sectionHeight = section.offsetHeight;
+
+          if (
+            scrollPosition >= sectionTop &&
+            scrollPosition < sectionTop + sectionHeight
+          ) {
+            setActiveSection(`#${sectionId}`);
+            break;
+          }
+        }
+      }
+    };
+
+    window.addEventListener("scroll", handleScroll);
+    handleScroll(); // Call once on mount
+
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, []);
 
   // Close mobile menu when clicking outside or on escape
   useEffect(() => {
@@ -64,8 +96,10 @@ const Navbar = () => {
               <Link
                 key={item.title}
                 href={item.path}
-                className={`text-gray-700 hover:text-gray-900 px-3 py-2 text-sm font-medium transition-colors ${
-                  pathname === item.path ? "text-gray-900 font-semibold" : ""
+                className={`px-3 py-2 text-sm transition-colors ${
+                  activeSection === item.path
+                    ? "text-gray-900 lato-black"
+                    : "text-gray-700 hover:text-gray-900 font-medium"
                 }`}
               >
                 {item.title}
@@ -97,10 +131,10 @@ const Navbar = () => {
               <Link
                 key={item.title}
                 href={item.path}
-                className={`block px-4 py-3 text-base font-medium rounded-md transition-colors ${
-                  pathname === item.path
-                    ? "text-gray-900 bg-gray-100"
-                    : "text-gray-700 hover:text-gray-900 hover:bg-gray-50"
+                className={`block px-4 py-3 text-base rounded-md transition-colors ${
+                  activeSection === item.path
+                    ? "text-gray-900 bg-gray-100 lato-black"
+                    : "text-gray-700 hover:text-gray-900 hover:bg-gray-50 font-medium"
                 }`}
                 onClick={() => setIsMenuOpen(false)}
               >

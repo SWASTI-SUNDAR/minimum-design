@@ -179,17 +179,21 @@ const GetInTouch = () => {
             <div className="space-y-6 text-sm">
               {/* Registration */}
               <div>
-                <p className="text-gray-700 mb-1">A registered unit of</p>
-                <p className="font-semibold text-black">
+                <p className="text-gray-700 mb-1 font-light">
+                  A registered unit of
+                </p>
+                <p className="font-black text-black">
                   NANDY DESIGN SERVICES PVT LTD.
                 </p>
               </div>
 
               {/* Registered Office */}
               <div>
-                <p className="text-gray-700 mb-1">Registered Office:</p>
-                <p className="text-gray-700">
-                  Senpati, 535 Hariharpur, Hridaypur
+                <p className="text-gray-700 mb-1 font-light">
+                  Registered Office:
+                </p>
+                <p className="text-gray-700 font-light">
+                  SENJUTI, 535 Hariharpur, Hridaypur
                   <br />
                   Kolkata, 700127, West Bengal, India.
                 </p>
@@ -197,20 +201,24 @@ const GetInTouch = () => {
 
               {/* GSTIN */}
               <div>
-                <p className="text-gray-700 mb-1">GSTIN</p>
-                <p className="text-gray-700">19AAHCN0231C1ZY</p>
+                <p className="text-gray-700 mb-1 font-light">GSTIN</p>
+                <p className="text-gray-700 font-light">19AAHCN0231C1ZY</p>
               </div>
 
               {/* Email */}
               <div>
-                <p className="text-gray-700 mb-1">Email</p>
-                <p className="text-gray-700">hello@minimumdesignstudio.com</p>
+                <p className="text-gray-700 mb-1 font-light">Email</p>
+                <p className="text-gray-700 font-light">
+                  hello@minimumdesignstudio.com
+                </p>
               </div>
 
               {/* Website */}
               <div>
-                <p className="text-gray-700 mb-1">Website</p>
-                <p className="text-gray-700">www.minimumdesignstudio.com</p>
+                <p className="text-gray-700 mb-1 font-light">Website</p>
+                <p className="text-gray-700 font-light">
+                  www.minimumdesignstudio.com
+                </p>
               </div>
             </div>
           </div>

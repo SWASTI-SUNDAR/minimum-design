@@ -25,17 +25,34 @@ body {
   font-family: var(--font-lato), sans-serif;
 }
 
-/* Ensure all text elements use Lato font */
+/* Ensure all text elements use appropriate fonts */
 * {
   font-family: var(--font-lato), sans-serif;
 }
 
+/* Headings use Baskerville font */
 h1,
 h2,
 h3,
 h4,
 h5,
-h6,
+h6 {
+  font-family: "Baskerville Light", "Baskerville", "Times New Roman", serif;
+  font-weight: 300;
+}
+
+/* Ensure spans within headings also use Baskerville */
+h1 span,
+h2 span,
+h3 span,
+h4 span,
+h5 span,
+h6 span {
+  font-family: "Baskerville Light", "Baskerville", "Times New Roman", serif;
+  font-weight: 300;
+}
+
+/* Body text elements use Lato font */
 p,
 span,
 div,
@@ -51,5 +68,15 @@ label {
 @layer utilities {
   .text-balance {
     text-wrap: balance;
+  }
+
+  .lato-black {
+    font-family: var(--font-lato), sans-serif;
+    font-weight: 900;
+  }
+
+  .lato-light {
+    font-family: var(--font-lato), sans-serif;
+    font-weight: 300;
   }
 }
